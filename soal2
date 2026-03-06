@@ -1,5 +1,7 @@
 mata_kuliah="Sistem Operasi" 
+angka=4
 
 echo "Matkul hari ini: " $mata_kuliah
+echo "Aku suka angka: " $angka
 
 
