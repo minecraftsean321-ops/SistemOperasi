@@ -1,0 +1,5 @@
+mata_kuliah=Sistem Operasi 
+
+echo "Matkul hari ini: " $mata_kuliah
+
+
